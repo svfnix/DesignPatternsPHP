@@ -116,3 +116,4 @@ The patterns can be structured in roughly three different categories. Please cli
 | bg    | Bulgarian | [Docs :notebook:](https://designpatternsphp.readthedocs.io/bg/latest/README.html) |
 | fr    | French | [Docs :notebook:](https://designpatternsphp.readthedocs.io/fr/latest/README.html) |
 | it    | Italian | [Docs :notebook:](https://designpatternsphp.readthedocs.io/it/latest/README.html) |
+| fa_IR | Persian | [Docs :notebook:](https://designpatternsphp.readthedocs.io/fa/latest/README.html) |
